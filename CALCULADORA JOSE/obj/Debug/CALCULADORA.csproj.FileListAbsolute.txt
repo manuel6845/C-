@@ -1,0 +1,20 @@
+C:\Users\DELL\Desktop\Algoritmia y Programacion\c#\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+C:\Users\DELL\Desktop\Algoritmia y Programacion\c#\CALCULADORA\bin\Debug\CALCULADORA.exe
+C:\Users\DELL\Desktop\Algoritmia y Programacion\c#\CALCULADORA\bin\Debug\CALCULADORA.pdb
+C:\Users\DELL\Desktop\Algoritmia y Programacion\c#\CALCULADORA\obj\Debug\CALCULADORA.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Algoritmia y Programacion\c#\CALCULADORA\obj\Debug\CALCULADORA.Form1.resources
+C:\Users\DELL\Desktop\Algoritmia y Programacion\c#\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+C:\Users\DELL\Desktop\Algoritmia y Programacion\c#\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Algoritmia y Programacion\c#\CALCULADORA\obj\Debug\CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Algoritmia y Programacion\c#\CALCULADORA\obj\Debug\CALCULADORA.exe
+C:\Users\DELL\Desktop\Algoritmia y Programacion\c#\CALCULADORA\obj\Debug\CALCULADORA.pdb
+C:\Users\Jose Manuel\Desktop\CALCULADORA\bin\Debug\CALCULADORA.exe.config
+C:\Users\Jose Manuel\Desktop\CALCULADORA\bin\Debug\CALCULADORA.exe
+C:\Users\Jose Manuel\Desktop\CALCULADORA\bin\Debug\CALCULADORA.pdb
+C:\Users\Jose Manuel\Desktop\CALCULADORA\obj\Debug\CALCULADORA.csprojAssemblyReference.cache
+C:\Users\Jose Manuel\Desktop\CALCULADORA\obj\Debug\CALCULADORA.Form1.resources
+C:\Users\Jose Manuel\Desktop\CALCULADORA\obj\Debug\CALCULADORA.Properties.Resources.resources
+C:\Users\Jose Manuel\Desktop\CALCULADORA\obj\Debug\CALCULADORA.csproj.GenerateResource.cache
+C:\Users\Jose Manuel\Desktop\CALCULADORA\obj\Debug\CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\Jose Manuel\Desktop\CALCULADORA\obj\Debug\CALCULADORA.exe
+C:\Users\Jose Manuel\Desktop\CALCULADORA\obj\Debug\CALCULADORA.pdb
